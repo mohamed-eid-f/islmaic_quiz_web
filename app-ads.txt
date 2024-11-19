@@ -1,0 +1,5 @@
+# This file is used to declare authorized sellers of your app's inventory.
+# Learn more at https://support.google.com/admob/answer/9357955
+# Format: publisher_domain, account_id, account_type, certification_authority
+
+google.com, pub-2750684500976687, DIRECT, f08c47fec0942fa0
